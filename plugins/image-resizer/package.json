@@ -1,0 +1,1 @@
+{"dependencies":{"sharp":"^0.35.0"},"description":"Image Resizer plugin runtime: local image resizing to social presets.","name":"image-resizer-plugin","private":true,"version":"0.1.0"}
